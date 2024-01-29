@@ -1,0 +1,11 @@
+[] The code compiles, no warnings. Data grid populates and sorts correctly. All sounds working.
+[] Variable names are descriptive. Comments are straightforward, effective. I agree with your take on commenting.
+[] I found no unused code or code that could be eliminated.
+[] I noticed the product number and description don't create dialog for no input, but don't result in unwanted behavior.
+The others check for valid int/decimal parse.
+[] I seem to be the only one who broke up the three sections of the problem into their own programs, which made it pretty easy as they all behaved similarly.
+I'm starting to think I did it wrong now.
+I would have structured mine similarly if they were combined. The upside to your approach is that all functions are one screen, save for the price range.
+[] Have you looked into getting multiple sounds to play on top of each other?
+Apparently the builtin soundplayer class doesn't natively support it without doing some crazy workarounds.
+I think you have to use the imported dll WinMM API. Haven't tried it yet though.
