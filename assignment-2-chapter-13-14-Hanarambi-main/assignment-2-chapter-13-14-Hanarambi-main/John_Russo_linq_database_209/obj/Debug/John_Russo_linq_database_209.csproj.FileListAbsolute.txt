@@ -1,0 +1,13 @@
+C:\Users\Hanar\source\repos\John_Russo_linq_database_209\bin\Debug\ProductDB.mdf
+C:\Users\Hanar\source\repos\John_Russo_linq_database_209\bin\Debug\ProductDB_log.ldf
+C:\Users\Hanar\source\repos\John_Russo_linq_database_209\bin\Debug\John_Russo_linq_database_209.exe.config
+C:\Users\Hanar\source\repos\John_Russo_linq_database_209\bin\Debug\John_Russo_linq_database_209.exe
+C:\Users\Hanar\source\repos\John_Russo_linq_database_209\bin\Debug\John_Russo_linq_database_209.pdb
+C:\Users\Hanar\source\repos\John_Russo_linq_database_209\obj\Debug\John_Russo_linq_database_209.Form1.resources
+C:\Users\Hanar\source\repos\John_Russo_linq_database_209\obj\Debug\John_Russo_linq_database_209.Properties.Resources.resources
+C:\Users\Hanar\source\repos\John_Russo_linq_database_209\obj\Debug\John_Russo_linq_database_209.csproj.GenerateResource.cache
+C:\Users\Hanar\source\repos\John_Russo_linq_database_209\obj\Debug\John_Russo_linq_database_209.csproj.CoreCompileInputs.cache
+C:\Users\Hanar\source\repos\John_Russo_linq_database_209\obj\Debug\John_Russo_linq_database_209.exe
+C:\Users\Hanar\source\repos\John_Russo_linq_database_209\obj\Debug\John_Russo_linq_database_209.pdb
+C:\Users\Hanar\source\repos\John_Russo_linq_database_209\obj\Debug\John_Russo_linq_database_209.TheMatrix.resources
+C:\Users\Hanar\source\repos\John_Russo_linq_database_209\obj\Debug\John_Russo_linq_database_209.csproj.AssemblyReference.cache
