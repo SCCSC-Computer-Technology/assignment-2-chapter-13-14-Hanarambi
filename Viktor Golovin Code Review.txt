@@ -1,0 +1,5 @@
+Initial thoughts on the project were great job. All around a very nice application with more than needed. 
+I liked the sounds and the extra things you added that weren't even in the requirments. 
+The code comments were also good, I can see the thought process and what's going on through them 
+like where it searches for products on hand that are specified. 
+Overall a great application.
